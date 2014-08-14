@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: print-quote
+# key: pq
+# binding: direct-keybinding
+# --
+print("$0")
