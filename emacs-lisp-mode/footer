@@ -1,0 +1,9 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: footer
+# key: footer
+# binding: direct-keybinding
+# --
+$0
+
+(provide '`(file-name-sans-extension (buffer-name))`)
+;;; `(buffer-name)` ends here
